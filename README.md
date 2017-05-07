@@ -25,6 +25,7 @@ Yêu cầu **bắt buộc**
 
 Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các nội dung đã làm được vào bên dưới và check vào các nội dung đã tìm hiểu được.
 * [x] Tổng quan
+* [x] Ưu điểm của revel so với beego
 * [ ] Mô hình MVC
 * [x] Cài đặt Go
 * [x] Set up GOPATH
